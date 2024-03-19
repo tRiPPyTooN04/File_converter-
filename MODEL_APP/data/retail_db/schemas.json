@@ -1,16 +1,5 @@
 {
-    "departments": [
-        {
-            "column_name": "department_id",
-            "data_type": "integer",
-            "column_position": 1
-        },
-        {
-            "column_name": "department_name",
-            "data_type": "string",
-            "column_position": 2
-        }
-    ],
+   
     "categories": [
         {
             "column_name": "category_id",
