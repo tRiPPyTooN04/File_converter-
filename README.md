@@ -19,8 +19,8 @@ To use this tool, follow these steps:
 
 ## Technolgies Used 
 
--Programming Language – Python
--Pandas – For Converting CSV to Dataframe and then Dataframe into JSON.
+ -Programming Language = Python
+ -Pandas – For Converting CSV to Dataframe and then Dataframe into JSON.
 
 
 ## Validation Steps
