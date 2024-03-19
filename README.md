@@ -17,6 +17,13 @@ To use this tool, follow these steps:
 3. Set up the necessary environment variables (`SOURCE_BASE_DIR` and `TARGET_BASE_DIR`) for file paths.
 4. Run the `app.py` script to process your files.
 
+
+##Technolgies Used 
+
+-Programming Language – Python
+-Pandas – For Converting CSV to Dataframe and then Dataframe into JSON.
+
+
 ## Validation Steps
 
 After running the data processing tool, it's important to validate whether the data in the files has been converted properly. Follow these steps to ensure the conversion was successful:
